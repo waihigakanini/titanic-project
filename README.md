@@ -1,1 +1,1 @@
-# titanic-project
+# Titanic Dataset Project
